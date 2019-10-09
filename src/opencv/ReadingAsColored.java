@@ -64,7 +64,7 @@ public class ReadingAsColored extends Application {
       Mat dst = new Mat();
 
       // Reading the image
-      Mat src = Imgcodecs.imread(input, Imgcodecs.IMREAD_COLOR);
+      Mat src = Imgcodecs.imread(input, Imgcodecs.IMREAD_ANYCOLOR);
 
       byte[] data1 = new byte[src.rows() * src.cols() * (int)(src.elemSize())]; 
       src.get(0, 0, data1);
