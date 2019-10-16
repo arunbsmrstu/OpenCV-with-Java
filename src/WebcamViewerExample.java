@@ -153,7 +153,7 @@ public class WebcamViewerExample extends JFrame implements Runnable, WebcamListe
 				webcam.close();
 
 				webcam = (Webcam) e.getItem();
-				webcam.setViewSize(WebcamResolution.VGA.getSize());
+				webcam.setViewSize(WebcamResolution.HD720.getSize());
 				webcam.addWebcamListener(this);
 
 				System.out.println("selected " + webcam.getName());

@@ -3,21 +3,12 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DrawingRectangle.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/ReadingAsColored.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DisplayingMatrix.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DrawingLine.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DrawingPolyLines.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/WebcamViewerExample.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/ColorToGrayscale.java</file>
-            <file>jar:file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/lib/opencv-343.jar!/org/opencv/video/Video.java</file>
-            <file>jar:file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/lib/opencv-343.jar!/org/opencv/videoio/VideoCapture.java</file>
             <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DrawingCircle.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/DrawingEllipse.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/Camera.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/ColorToBinary.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/GrayScaleToBinary.java</file>
-            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/faceDetectionJavaFXX.java</file>
+            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/DLLTest.java</file>
+            <file>jar:file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/lib/opencv-343.jar!/org/opencv/core/Core.java</file>
+            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/WebcamViewerExample.java</file>
+            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/Test.java</file>
+            <file>file:/C:/Users/Arun/Documents/NetBeansProjects/OpenCV-with-Java/src/opencv/OpenCv.java</file>
         </group>
     </open-files>
 </project-private>
